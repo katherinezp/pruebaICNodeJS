@@ -1,0 +1,19 @@
+{
+  "name": "pruebaic",
+  "version": "1.0.0",
+  "description": "proyecto de prueba para integración continua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katherinezp/pruebaICNodeJS.git"
+  },
+  "author": "Katherine Zurita Poblete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katherinezp/pruebaICNodeJS/issues"
+  },
+  "homepage": "https://github.com/katherinezp/pruebaICNodeJS#readme"
+}
